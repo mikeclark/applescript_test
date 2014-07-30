@@ -1,7 +1,7 @@
 applescript_test
 ================
 
-Testing development workflows for Applescript
+Running text-based applescript and calling a handler from a second text-based applescript in same folder
 
 Try :
 
